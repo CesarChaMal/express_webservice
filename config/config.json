@@ -1,0 +1,6 @@
+{
+	"webhost" : "localhost",
+	"webhostPortHttp" : "3000",
+	"webhostPortHttps" : "4443"
+}
+	
